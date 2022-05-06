@@ -47,5 +47,8 @@
 - Para acabar editamos el archivo `hosts` dentro de `/etc` con las direcciones web junto a su ip correspondiente
 
 
-
 - Ya por ultimo solo falta comprobar que se haya hecho todo correctamente, para ello introducimos la dirección de cada web en nuestro navegador y mostrarse las 2 páginas
+
+![Image text](https://github.com/DavidMuletMelia/Instalaci-n-y-configuraci-n-del-servidor-web-Nginx-Virtual-Hosts/blob/main/practica%20maximo%202/ex2.PNG)
+
+![Image text](https://github.com/DavidMuletMelia/Instalaci-n-y-configuraci-n-del-servidor-web-Nginx-Virtual-Hosts/blob/main/practica%20maximo%202/ex3.PNG)
