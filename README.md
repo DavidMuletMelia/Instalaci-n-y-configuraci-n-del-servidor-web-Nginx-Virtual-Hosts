@@ -42,4 +42,10 @@
 
 - Volvemos a recargar nginx (`sudo -s reload nginx`)
 
+### HOSTS
 
+- Para acabar editamos el archivo `hosts` dentro de `/etc` con las direcciones web junto a su ip correspondiente
+
+
+
+- Ya por ultimo solo falta comprobar que se haya hecho todo correctamente, para ello introducimos la dirección de cada web en nuestro navegador y mostrarse las 2 páginas
