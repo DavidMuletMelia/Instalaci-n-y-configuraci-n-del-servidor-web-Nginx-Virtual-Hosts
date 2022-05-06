@@ -33,3 +33,4 @@
 ### Nos dirigimos ahora a `sites-enabled` y aqui crearemos 2 enlaces simbolicos para relacionar los directorios que hemos creado en `sites-availables`. El comando usado es `ln -s ../sites-available/david.davidmulet.com` // `ln -s ../sites-available/david2.davidmulet.com`
 
 ![Image text](https://github.com/DavidMuletMelia/Instalaci-n-y-configuraci-n-del-servidor-web-Nginx-Virtual-Hosts/blob/main/practica%20maximo%202/17.PNG)
+
